@@ -1,3 +1,5 @@
+# 请转至[QANet_dureader](https://github.com/SeanLee97/QANet_dureader)
+
 # duReader_pytorch
 基于duReader的阅读理解
 
